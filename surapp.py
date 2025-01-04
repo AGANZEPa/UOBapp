@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image, ImageDraw, ImageFont
 
 # Titre de l'application
-st.title(" Modele adapter à l'UOB Bukavu pour la generation des cartes d'étudiant ")
+st.title(" Modele adapté à l'UOB Bukavu pour la Régénération des cartes des étudiants ")
 
 st.title(" BIENVENU A L'UOB BUKAVU")
 
